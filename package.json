@@ -1,0 +1,25 @@
+{
+  "name": "waterproject",
+  "version": "1.0.0",
+  "description": "Application that allows users to track and visualize their daily water intake.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JacobZCodes/waterproject.git"
+  },
+  "keywords": [
+    "React",
+    "health",
+    "hydration",
+    "water"
+  ],
+  "author": "Jacob Zamore",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JacobZCodes/waterproject/issues"
+  },
+  "homepage": "https://github.com/JacobZCodes/waterproject#readme"
+}
