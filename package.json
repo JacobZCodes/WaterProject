@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/JacobZCodes/waterproject/issues"
   },
-  "homepage": "https://github.com/JacobZCodes/waterproject#readme"
+  "homepage": "https://github.com/JacobZCodes/waterproject#readme",
+  "dependencies": {
+    "tar": "^6.1.13"
+  }
 }
